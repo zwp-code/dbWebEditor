@@ -1,1 +1,0 @@
-import"./index-25d84623.js";function e(e){let t=e?new Date(e):new Date;return t.getFullYear()+"-"+(t.getMonth()+1<10?"0"+(t.getMonth()+1):t.getMonth()+1)+"-"+(t.getDate()<10?"0"+t.getDate():t.getDate())}function t(e){if(!e)return 0;let t=e.replace(/-/g,"/");return new Date(t).getTime()}export{e as a,t as f};
