@@ -1,10 +1,10 @@
 {
-  "name": "dbeditor",
+  "name": "dbmodifier",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
   "window": {
-    "title": "DB Editor",
+    "title": "DB Modifier",
     "icon": "assets/logo.png",
     "width": 800,
     "height": 600,
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dist": "build --tasks win-x86,win-x64 --mirror https://npm.taobao.org/mirrors/nwjs/ .",
+    "dist": "build --tasks win-x64 --mirror https://npm.taobao.org/mirrors/nwjs/ .",
     "start": "run --x86 --mirror https://npm.taobao.org/mirrors/nwjs/ ."
   },
   "author": "",
