@@ -1,0 +1,1 @@
+var e="/static/png/team_notfound-3760e8ee.png",t=Object.freeze(Object.defineProperty({__proto__:null,default:"/static/png/team_notfound-3760e8ee.png"},Symbol.toStringTag,{value:"Module"}));export{t as _,e as t};
