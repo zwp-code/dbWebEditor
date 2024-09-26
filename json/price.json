@@ -1,0 +1,53 @@
+[
+    {
+        "label":{
+            "zh":"青铜",
+            "en":"Bronze"
+        },
+        "id": 1,
+        "price":{
+            "zh":"￥5",
+            "en":"$1"
+        },
+        "hasBatchUpdate":false,
+        "hasAttrCopy":true,
+        "hasSupport":"promptReply",
+        "hasSquadPlayerCopy":true,
+        "autoSave":false,
+        "cacheItemQuantity":2
+    },
+    {
+        "label":{
+            "zh":"白银",
+            "en":"Silver"
+        },
+        "id": 2,
+        "price":{
+            "zh":"￥8",
+            "en":"$2"
+        },
+        "hasBatchUpdate":false,
+        "hasSupport":"priorityReply",
+        "hasAttrCopy":true,
+        "hasSquadPlayerCopy":true,
+        "autoSave":true,
+        "cacheItemQuantity":5
+    },
+    {
+        "label":{
+            "zh":"黄金",
+            "en":"Gold"
+        },
+        "id": 3,
+        "price":{
+            "zh":"￥10",
+            "en":"$3"
+        },
+        "hasBatchUpdate":true,
+        "hasSupport":"priorityReply",
+        "hasAttrCopy":true,
+        "hasSquadPlayerCopy":true,
+        "autoSave":true,
+        "cacheItemQuantity":8
+    }
+]

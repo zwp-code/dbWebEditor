@@ -1,0 +1,38 @@
+[
+    {
+        "label":"DB V9.0 Debug File",
+        "id": 1,
+        "link": {
+            "en":"https://www.mediafire.com/file/osksp31zasppvwo/DbEditor_V2_DB_V9.0.zip/file",
+            "zh":"https://pan.quark.cn/s/02c307dd51a3"
+        },
+        "desc": {
+            "zh":"DB V9.0 原始可编辑文件（laosji版本）",
+            "en":"DB V9.0 Original Editable File By Laosji"
+        }
+    },
+    {
+        "label":"DB Editor V2.0",
+        "id": 2,
+        "link": {
+            "en":"https://www.mediafire.com/file/k4muuml0yr2bdub/DbEditor_V2.zip/file",
+            "zh":"https://pan.baidu.com/s/1ipCvHl_6zqNZibAtW3ZuPg?pwd=LWJ7"
+        },
+        "desc":{
+            "zh":"DB编辑器，可用于打开编辑Debug版本的DB文件",
+            "en":"DB Editor That Can Open and Edit DB Debug File"
+        }
+    },
+    {
+        "label":"DB FIFA16 Debug File",
+        "id": 3,
+        "link": {
+            "en":"https://www.mediafire.com/file/5l2xu5p0xse24c5/FIFA16_Original_DB_BY_LAOSIJI.zip/file",
+            "zh":"https://pan.quark.cn/s/0f5f20256646"
+        },
+        "desc":{
+            "zh":"FIFA16原始可编辑的DB文件（laosji版本）",
+            "en":"FIFA16 Original Editable DB File By Laosji"
+        }
+    }
+]
